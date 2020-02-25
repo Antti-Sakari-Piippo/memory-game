@@ -1,0 +1,13 @@
+.memory > .card {
+  outline: 0.08em solid silver;
+  cursor: default;
+}
+
+.memory > .card.hidden {
+  background: silver;
+}
+
+.symbol {
+  height:1rem;
+  font-size: 3.75em;
+}
